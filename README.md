@@ -1,13 +1,12 @@
 
 ## Gift Redeem Service
 ### List Fitur
-**1. Role Base Access Controll**
-**2. Auth**
-**3. User Management**
-**4. Gift Product Management and Upload File**
-**5. Redeem Gift by Point**
-**5. Rating Gift by Redeem Gift**
-## Gift Redeem Service
+`1. Role Base Access Controll`
+`2. Auth`
+`3. User Management`
+`4. Gift Product Management and Upload File`
+`5. Redeem Gift by Point`
+`6. Rating Gift by Redeem Gift`
 ### Configuration
 Agar aplikasi dapat berjalan dengan parameter-parameter tertentu, sebaiknya dapat memanfaatkan
 konfigurasi manajemen. Berikut ini modul yang digunakan terkait konfigurasi.
